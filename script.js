@@ -37,8 +37,8 @@ function flashRainbowColors(callback) {
         if (callback) {
             callback ();
         }
-    }, 2000); // Flash colors for 2 seconds
-}
+    } 2000; // Flash colors for 2 seconds
+
 
 // Function to dis play the DuckMove.gif initially function displayDuck() {
     // Get the container where the image will be displayed
